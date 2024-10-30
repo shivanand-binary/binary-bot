@@ -13,7 +13,7 @@ Ensure that your environment contains the following packages.
  - npm
  - git (for contribution)
  ```
- ## Installation
+ ## Installation:
 
 ### 1. Setup the project on local machine
 
